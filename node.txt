@@ -1,3 +1,3 @@
-# SeanDESSR节点列表
+# 节点列表
 
 ssr://MjA3LjE0OC4xMjEuMTg2OjEwNjY6YXV0aF9zaGExX3Y0OmFlcy0xMjgtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDpNVEExTlEvP29iZnNwYXJhbT0
